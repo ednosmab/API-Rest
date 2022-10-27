@@ -20,7 +20,9 @@ Tecnologias utilizadas: <br>
 	Compor Componentes 	com.stuartsierra/component "1.0.0"
  </p>
  <p>
-- Stack: Clojure – Linguagem com paradigma Funcional
+- Stack: 
+	
+	Clojure – Linguagem com paradigma Funcional
 </p>
 
 O que mais gostei nesse projeto foi a forma de trabalhar com testes automatizados.
