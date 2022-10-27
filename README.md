@@ -5,10 +5,13 @@ Foi utilizado o Atom para permitir a mutabilidade do símbolo Store que serviu c
 
 Tecnologias utilizadas: <br>
 <p>
-- Bibliotecas<br>
-	Serviços http	io.pedestal/pedestal.service "0.5.10"<br>
- 			io.pedestal/pedestal.route "0.5.10"<br>
-			io.pedestal/pedestal.jetty "0.5.10"<br>
+- Bibliotecas
+	
+	Serviços http	io.pedestal/pedestal.service "0.5.10"
+	
+ 			io.pedestal/pedestal.route "0.5.10"
+	
+			io.pedestal/pedestal.jetty "0.5.10"
 
 	Json		org.clojure/data.json "0.2.6"
 
