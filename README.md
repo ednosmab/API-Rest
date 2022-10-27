@@ -1,4 +1,25 @@
 # servico-clojure
+A intenção desse projeto foi construir uma API Rest CRUD utilizando espaço de armazenamento em memória.
+
+Foi utilizado o Atom para permitir a mutabilidade do símbolo Store que serviu como um espaço de armazenamento em memória para as tarefas que foram criadas.
+
+Tecnologias utilizadas: 
+- Bibliotecas
+	Serviços http	io.pedestal/pedestal.service "0.5.10"
+ 			io.pedestal/pedestal.route "0.5.10"
+			io.pedestal/pedestal.jetty "0.5.10"
+
+	Json		org.clojure/data.json "0.2.6"
+
+	Verificação de logs		org.slf4j/slf4j-simple "1.7.28"
+
+	Compor Componentes 	com.stuartsierra/component "1.0.0"
+ 
+- Stack: Clojure – Linguagem com paradigma Funcional
+
+O que mais gostei nesse projeto foi a forma de trabalhar com testes automatizados.
+
+
 
 A Clojure library designed to ... well, that part is up to you.
 
